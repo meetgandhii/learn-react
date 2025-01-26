@@ -44,3 +44,11 @@ To learn more about React.js, take a look at the [React Documentation](https://l
 ## What to Submit?
 
 Submit all changes made to files in `src/pages/qcomps` in Canvas class activity for the day.
+
+## Instructions to run the file
+
+Question 1: gallery_props.tsx Update the code in index.tsx to the result to be displayed. Change import function name to Profile and the appropriate path. Modify the tag name as well.
+
+Question 2: list_keys_id.tsx Update the code in index.tsx to the result to be displayed. Change import function name to List and the appropriate path. Modify the tag name as well.
+
+Question 3: recipes.tsx Update the code in index.tsx to the result to be displayed. Change import function name to RecipeList and the appropriate path. Modify the tag name as well.
